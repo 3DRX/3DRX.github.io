@@ -1,4 +1,9 @@
-body, html {
+html {
+    background: #171731;
+    z-index: -1;
+}
+
+body {
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
